@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SolarLight.com.ng",
-    "currentPage": "solarstore.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3071,7 +3071,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Solar Home",
         "meta_descr": "SolarLight is the largest online solar store in Nigeria.",
         "header_custom": "",
         "footer_custom": "",
